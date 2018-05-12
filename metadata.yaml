@@ -20,6 +20,8 @@ creator:
     - http://es.wikipedia.org/wiki/Miguel_de_Cervantes
     - http://en.wikipedia.org/wiki/Miguel_de_Cervantes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16110#Viage-al-ParnasoLa-Numancia--Tragedia--y-El-Trato-de-Argel--Comedia-
 gutenberg_issued: '2005-06-22'
 gutenberg_type: Text
 identifiers:
