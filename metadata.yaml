@@ -1,0 +1,38 @@
+_repo: Viage-al-ParnasoLa-Numancia--Tragedia--y-El-Trato-de-Argel--Comedia-_16110
+_version: 0.1.0
+alternative_title: Viaje al Parnaso
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cervantes Saavedra, Miguel de
+    aliases:
+    - Cervantes, Michel
+    - Cervantes, Miguel de
+    - De Cervantes Saavedra, Miguel
+    - Saavedra, Miguel de Cervantes
+    birthdate: 1547
+    deathdate: 1616
+    gutenberg_agent_id: '505'
+    url: http://www.gutenberg.org/2009/agents/505
+    wikipedia:
+    - http://es.wikipedia.org/wiki/Miguel_de_Cervantes
+    - http://en.wikipedia.org/wiki/Miguel_de_Cervantes
+description: ''
+gutenberg_issued: '2005-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16110'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spanish drama'
+- !lcc 'PQ'
+- !lcsh 'Spanish poetry'
+title: 'Viage al Parnaso
+
+  La Numancia (Tragedia) y El Trato de Argel (Comedia)'
+url: http://www.gutenberg.org/ebooks/16110
